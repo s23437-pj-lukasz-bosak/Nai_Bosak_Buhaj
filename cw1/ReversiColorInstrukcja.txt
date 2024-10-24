@@ -1,0 +1,29 @@
+
+
+    1) Zainstalowac biblioteki:
+
+easyAI - do implementacji logiki gry i sztucznej inteligencji.
+    pip install easyAI
+numpy - do zarządzania planszą i operacji na macierzach.
+    pip install numpy
+colorama - do kolorowania tekstu w terminalu.
+    pip install colorama
+
+
+    2) Uruchamianie:
+
+z katalogu w ktorym znajduje sie plik ReversiColor.py
+
+    python ReversiColor.py
+
+    3) Wprowadzanie danych :
+
+        Oczekiwany format wprowadzania danych:
+
+    x - numer wiersza (od 0 do 7).
+    y - numer kolumny (od 0 do 7).
+
+        Potwierdzenie ruchu "enter"
+
+    4) Zasady gry: https://www.kurnik.pl/reversi/zasady.phtml
+
