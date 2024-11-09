@@ -1,0 +1,25 @@
+
+Instrukcja przygotowania środowiska do uruchomienia systemu logiki rozmytej.
+
+
+1. Zainstaluj wymagane biblioteki
+   Biblioteka `scikit-fuzzy` oraz `numpy` są niezbędne do działania kodu. Zainstaluj je za pomocą poniższej komendy:
+
+   ```bash
+   pip install scikit-fuzzy numpy
+   ```
+
+   - `scikit-fuzzy`: Biblioteka do implementacji systemów logiki rozmytej.
+   - `numpy`: Biblioteka do obliczeń numerycznych, wykorzystywana do tworzenia zakresów zmiennych.
+
+4. Uruchom kod
+   Po zainstalowaniu bibliotek, uruchom skrypt w terminalu:
+
+   ```bash
+   python nazwa_pliku.py
+   ```
+
+5. Podaj dane wejściowe
+   Skrypt poprosi o podanie dochodów, wydatków i oszczędności. Wprowadź odpowiednie wartości, aby otrzymać ocenę stanu finansowego gospodarstwa domowego.
+
+
