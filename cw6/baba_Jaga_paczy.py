@@ -8,8 +8,7 @@ import cv2
 # Zielony celownik: Rysowany, gdy twarz jest nieruchoma.
 # Czerwony celownik: Pojawia się, gdy twarz się poruszy.
 # Kod stale monitoruje ruch twarzy i dynamicznie zmienia kolor celownika.
-
-
+# Zakończenie programu po naciśnięciu klawisza 'q'
 
 # Inicjalizacja kamery, uruchamia kamerę 0 czyli domyślną.
 cap = cv2.VideoCapture(0)
